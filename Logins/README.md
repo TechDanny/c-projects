@@ -1,0 +1,1 @@
+My first c project is a login system. This project prompts the user to register for an account and use the same credentials he/she used during registrations to login. Then finally the user is asked to enter a value so that he/she can get multiples of that number. still working on it to improve on some things :)

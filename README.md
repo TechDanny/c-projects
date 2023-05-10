@@ -1,2 +1,2 @@
-Creating c projects on this repo.\n
+Creating c projects on this repo.
 Really happy to create projects using C language

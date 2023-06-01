@@ -12,7 +12,7 @@ int main(void)
 	int j;
 	int num;
 
-	printf("Enter a number: ");
+	printf("Enter a value: ");
 	scanf("%d", &num);
 
 	while (num > 0)
